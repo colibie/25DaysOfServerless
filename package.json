@@ -6,7 +6,6 @@
     "test": "echo \"No tests yet...\""
   },
   "dependencies": {
-    "cloudinary": "^1.17.0",
     "messagebird": "^3.3.0"
   },
   "devDependencies": {}
