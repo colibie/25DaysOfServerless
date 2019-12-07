@@ -18,3 +18,8 @@ Solution: Azure app [function url:](https://sendsmsjeni.azurewebsites.net/api/da
 See task [here](https://25daysofserverless.com/calendar/2)
 
 Solution: Logic App and Message Bird - [link]()
+
+## Day 3 - WebHooks
+See task at [here](https://25daysofserverless.com/calendar/3)
+
+Solution: Github Webhooks!! Image uploaded to cloudinary - [link](https://sendsmsjeni.azurewebsites.net/api/day3)
