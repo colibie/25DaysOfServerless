@@ -23,3 +23,14 @@ Solution: Logic App and Message Bird - [link]()
 See task at [here](https://25daysofserverless.com/calendar/3)
 
 Solution: Github Webhooks!! Image uploaded to cloudinary - [link](https://sendsmsjeni.azurewebsites.net/api/day3)
+
+## Day 5 - Smart Apps
+See task at [here](https://25daysofserverless.com/calendar/5)
+
+Solution: I used Azure Test Analytics for this one!!! - [link](https://sendsmsjeni.azurewebsites.net/api/day5)
+
+## Day 9 - WebHooks
+See task at [here](https://25daysofserverless.com/calendar/9)
+
+Solution: Github Webhooks!! && Octokits to create comment <br>
+Create an issue [here](https://github.com/Je-ni/25DaysOfServerless) and receive a comment :)
